@@ -22,7 +22,7 @@ import org.processmining.framework.util.CommandLineArgumentList;
 import org.processmining.framework.util.Pair;
 
 import jargs.gnu.CmdLineParser;
-
+ 
 public class CLI {
 	@Plugin(name = "CLI", parameterLabels = {}, returnLabels = {}, returnTypes = {}, userAccessible = false)
 	@Bootable
