@@ -12,6 +12,7 @@ public @interface UITopiaVariant {
 	public final static String USEPLUGIN = "Use Plugin Name";
 	public final static String USEVARIANT = "Use Variant Name";
 
+	public final static String EHV = "Netherlands";
 	public final static String POSTECH = "Pohang University of Science and Technology";
 
 	String uiLabel() default USEPLUGIN;
